@@ -22,5 +22,3 @@ This project is an interactive web application that allows users to discover, sh
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - LinkedIn: https://www.linkedin.com/in/shaunbrianwilson/
-
-Let's create a vibrant community of knowledge sharing together!
