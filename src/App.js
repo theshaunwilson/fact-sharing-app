@@ -254,6 +254,31 @@ function FactList({ facts, setFacts }) {
         ))}
       </ul>
       <p>There are {facts.length} facts in the databse. Add your own!</p>
+      <p>Built by Shaun Wilson</p>
+      <p>
+        Follow me on:{' '}
+        <a
+          href="https://x.com/theshaunwilsxn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          X
+        </a>{' '}
+        <a
+          href="https://www.linkedin.com/in/shaunbrianwilson/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          LinkedIn
+        </a>{' '}
+        <a
+          href="https://github.com/theshaunwilson"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
+      </p>
     </section>
   );
 }
